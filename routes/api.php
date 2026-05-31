@@ -6,6 +6,7 @@ use App\Http\Controllers\Api\PropertyApiController;
 use App\Http\Controllers\Api\TransactionApiController;
 use Illuminate\Support\Facades\Route;
 
+Route::post('/register', [AuthApiController::class, 'register'])->middleware('guest');
 Route::post('/login', [AuthApiController::class, 'login'])->middleware('guest');
 
 Route::middleware('auth')->group(function () {

@@ -1,0 +1,9 @@
+HTTP/1.1 419 unknown status
+Host: 127.0.0.1:8000
+Connection: close
+X-Powered-By: PHP/8.1.25
+Cache-Control: no-cache, private
+date: Sun, 31 May 2026 17:35:38 GMT
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: peace_realty_session=eyJpdiI6IjBielNFd2tLdjBDSXVFYU0xVzBsY1E9PSIsInZhbHVlIjoic1RkWFl0dFBDdmMzWFFIeEk5M295SzhVM1dxRTVkZHd5MEFYWHZLOEEvbzllellzSUNiSml5NjZGUlZFSkpPbElwS0gzZkZMVVVZN0JiYWlZQmNsWk5CZUtRZmRhQVpkR1NRTzZyNE9yUFlHMG1Tb1lDVU9ydk14TnhhaWdYazgiLCJtYWMiOiIxY2UxZTcxY2MyNmQ4NWE0YmI0ZjY0N2U1MmY2ZjFiOTVlYjU2MDEyMzEzMTMzMTYzMmJhNWJhYjUyMDVjMDhhIiwidGFnIjoiIn0%3D; expires=Sun, 31 May 2026 19:35:38 GMT; Max-Age=7200; path=/; httponly; samesite=lax
+
